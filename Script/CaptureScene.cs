@@ -1,7 +1,7 @@
 /*
  * CaptureScene - Unity Editor Window for capturing screenshots
  * Author: [Bonnate] https://bonnate.tistory.com/
- * Repository: [GitHub Repository URL]
+ * Repository: https://github.com/Bonnate/Unity-Editor-Screenshot-Capture
  * License: None (Provided without any explicit license)
  *
  * Description:
